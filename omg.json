@@ -33,7 +33,7 @@
 
 {"key": "360zy","name": "拾光☪360","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
 
-{"key": "hipy_js_采集之王[合]","name": "拾光☪采集王","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
+{"key": "hipy_js_采集之王[合]","name": "拾光☪采集","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
 
 
 {"key":"剧圈圈","name":"拾光☪剧圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/剧圈圈.json"},
@@ -639,7 +639,7 @@
 
 {"key": "js_310直播","name": "拾光☪三一","type": 3,"api": "./lib/drpy2.min.js", "searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/310.js"},
 
-{"key":"企鹅体育xp","name":"拾光☪鹅鹅体育","type":3,"api":"csp_XPath","playerType": 1,"style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/企鹅直播.json"},
+{"key":"企鹅xp","name":"拾光☪鹅鹅体育","type":3,"api":"csp_XPath","playerType": 1,"style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/企鹅直播.json"},
 
 {"key": "csp_Yj1211","name": "拾光☪JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -653,7 +653,7 @@
 
 {"key":"哔哩直播","name":"拾光☪哔哩直","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/blzb.js"},
 
-{"key":"csp_Bili短剧","name":"拾光☪哔哩短剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/Bili短剧.json"},
+{"key":"csp_Bili短剧","name":"拾光☪短剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/Bili短剧.json"},
 
  {
             "key": "hipy_js_短剧TV网",
