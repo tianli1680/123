@@ -649,9 +649,9 @@
 
 {"key": "csp_Yj1211","name": "拾光☪JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"虎牙直播","name":"拾光☪虎牙直","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/huyazhibo.js"},
+{"key":"虎牙直播","name":"拾光☪虎牙","type":3,"api":"./lib/drpy_libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/huyazhibo.js"},
 
-{"key":"斗鱼直播","name":"拾光☪斗鱼直","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/douyu.js"},
+{"key":"斗鱼直播","name":"拾光☪斗鱼","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/douyu.js"},
 
 {"key":"兔小贝","name":"拾光☪儿童兔","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tuxiaobei.js"},
 
@@ -670,7 +670,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 167,
-            "ext": "./js/短剧TV网.js"
+            "ext": "./lib/短剧TV网.js"
         },
 
 {"key":"js_博看听书","name":"拾光☪听书博看","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/bokan.js"},
