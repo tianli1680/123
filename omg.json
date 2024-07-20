@@ -659,8 +659,6 @@
 
 {"key": "js_310直播","name": "拾光☪三一","type": 3,"api": "./lib/drpy2.min.js", "searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/310.js"},
 
-{"key":"企鹅体育xp","name":"拾光☪企鹅体育","type": 3,"api":"csp_XPath","style":{"type": "list"},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
-
 {"key": "csp_Yj1211","name": "拾光☪JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"虎牙直播","name":"拾光☪虎牙","type":3,"api":"./lib/drpy_libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./zbjs/虎牙直播.js"},
