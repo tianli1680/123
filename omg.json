@@ -581,21 +581,7 @@
 	}
 },
 
-{
-      "key": "drpy_js_4k剧院",
-      "name": "拾光☪4k剧院",
-      "type": 3,
-      "api": "./lib/drpy_libs/drpy2.min.js",
-      "ext": "./zbjs/4k剧院.js"
-    },
 
-    {
-      "key": "drpy_js_4khdr",
-      "name": "拾光☪4kHDR",
-      "type": 3,
-      "api": "./lib/drpy_libs/drpy2.min.js",
-      "ext": "./zbjs/4khdr.js"
-    },
 
 {
       "key": "csp_红狐狸影视",
