@@ -20,6 +20,22 @@
             "order_num": 87,
             "ext": "./lib/好趣网.js"
         }, 
+         {
+      "key": "玩偶",
+      "name": "拾光☪玩偶",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar" : "https://gitee.com/xmbjmjk/ck/raw/master/%E5%A4%96%E6%8C%82jar/wogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      }
+    },
 
 {"key": "360zy","name": "拾光☪360","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
 
@@ -63,7 +79,7 @@
     },
 
 
-{"key": "玩偶哥哥","name":"拾光☪玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩偶哥哥.json"},
+{"key": "玩小偶哥哥","name":"拾光☪玩小偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩偶哥哥.json"},
 
     {
             "key": "qimaoys",
