@@ -2,17 +2,7 @@
     "spider": "./xmbjm.jar",
     "wallpaper": "https://jiduo.serv00.net/image",
     "logo": "https://gitee.com/xmbjmjk/slt/raw/master/logo.gif",
-	 "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "合法合规自由收集",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+
 
 
 	"sites":[
